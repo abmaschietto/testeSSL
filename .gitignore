@@ -1,0 +1,10 @@
+target/
+.tern-project
+.settings/
+.classpath
+.project
+.springBeans
+*.jar
+*.war
+*.class
+/bin/
